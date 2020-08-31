@@ -1,0 +1,44 @@
+.cardList{
+  display: flex;
+}
+.card{
+  margin: 10px;
+  border: 1px solid;
+  padding: 22px;
+}
+.word{
+  font-size: 1.3em;
+  padding-left: 20px;
+}
+.card dd {
+  margin: 0;
+}
+.card dd ol{
+  list-style: none;    padding: 0;
+}
+.card dd ol li{
+
+}
+.trans {
+  float: right;
+  right: 0;
+  padding-left: 59px;
+}
+
+.meaning{
+  display: inline-block;
+  margin: 0;
+}
+.exlist{
+
+}
+.exlist li{
+  
+}
+.tags{
+
+}
+.tags p{
+  float: left;
+  margin-right: 10px;
+}
